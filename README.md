@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
+    <a href="mailto:oluwatobisalau2000@gmail.com">
+      <img src="https://img.shields.io/badge/-Email Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/toby-salau-37b20723a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
