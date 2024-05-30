@@ -4,7 +4,7 @@
     <a href="mailto:oluwatobisalau2000@gmail.com">
       <img src="https://img.shields.io/badge/-Email Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/toby-salau-37b20723a/">
+    <a href="https://www.linkedin.com/in/toby-salau/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://oluwatobisalau.netlify.app/">
@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/bGgsc5mWoryf
 
 - :zap: In my free time, I take solve problems on leetcode, read tech articles and watch movies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-toby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toby-salau-37b20723a/) [![Gmail Badge](https://img.shields.io/badge/-oluwatobisalau2000@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:oluwatobisalau2000@gmail.com) [![Link Badge](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Foluwatobisalau.netlify.app%2F)](https://oluwatobisalau.netlify.app/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-toby-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/toby-salau/) [![Gmail Badge](https://img.shields.io/badge/-oluwatobisalau2000@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:oluwatobisalau2000@gmail.com) [![Link Badge](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Foluwatobisalau.netlify.app%2F)](https://oluwatobisalau.netlify.app/)
 
 ---
 
