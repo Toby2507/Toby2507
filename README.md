@@ -68,18 +68,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/bGgsc5mWoryf
 
 ### :fire: My Stats :
 
+<a href="http://www.github.com/EjiroOsiephri"><img src="https://github-readme-stats.vercel.app/api?username=Toby2507&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Toby's GitHub stats" /></a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toby2507&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby2507&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :fire: My Stats :
-
-<a href="http://www.github.com/EjiroOsiephri"><img src="https://github-readme-stats.vercel.app/api?username=Toby2507&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Toby's GitHub stats" /></a>
-
-<a href="http://www.github.com/EjiroOsiephri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Toby2507&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/EjiroOsiephri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toby2507&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
