@@ -70,8 +70,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/bGgsc5mWoryf
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Toby2507&show_icons=true&theme=highcontrast&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Toby2507&theme=highcontrast&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toby2507&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
